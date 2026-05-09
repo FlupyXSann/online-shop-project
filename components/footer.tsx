@@ -20,7 +20,7 @@ export function Footer() {
             </div>
             <p className="text-sm opacity-80 leading-relaxed">
               Jagonya Kebab dengan cita rasa autentik Timur Tengah. 
-              100% Halal dan dibuat dengan bahan berkualitas JEMBUT.
+              100% Halal dan dibuat dengan bahan berkualitas.
             </p>
           </div>
 
@@ -72,7 +72,7 @@ export function Footer() {
 
         <div className="border-t border-background/10 mt-8 pt-8 text-center">
           <p className="text-sm opacity-60">
-            © 2024 Kebab Bang Aji. All rights reserved.
+            © 2026 Kebab Bang Aji. All rights reserved.
           </p>
         </div>
       </div>
