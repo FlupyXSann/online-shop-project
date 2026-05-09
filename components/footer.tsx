@@ -20,7 +20,7 @@ export function Footer() {
             </div>
             <p className="text-sm opacity-80 leading-relaxed">
               Jagonya Kebab dengan cita rasa autentik Timur Tengah. 
-              100% Halal dan dibuat dengan bahan berkualitas.
+              100% Halal dan dibuat dengan bahan berkualitas JEMBUT.
             </p>
           </div>
 
@@ -31,17 +31,17 @@ export function Footer() {
               <div className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 mt-0.5 text-secondary" />
                 <span className="text-sm opacity-80">
-                  Jl. Contoh No. 123, Kota Anda
+                  Jl. Kosar No. 123, Kota Bandung
                 </span>
               </div>
               <div className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-secondary" />
-                <span className="text-sm opacity-80">+62 812 3456 7890</span>
+                <span className="text-sm opacity-80">+62 822 2775 6671</span>
               </div>
               <div className="flex items-start gap-3">
                 <Clock className="w-5 h-5 mt-0.5 text-secondary" />
                 <span className="text-sm opacity-80">
-                  Setiap Hari<br />10:00 - 22:00 WIB
+                  Onggal Poe Buka cuy<br />10:00 - 22:00 WIB
                 </span>
               </div>
             </div>
