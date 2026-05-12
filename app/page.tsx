@@ -12,7 +12,7 @@ import { Footer } from "@/components/footer"
 import { Badge } from "@/components/ui/badge"
 
 // Ganti dengan URL Google Form Anda
-const GFORM_URL = "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform"
+const GFORM_URL = "https://forms.gle/Br4Hgj6Xk7s1fEeq7"
 
 function ShopContent() {
   const [selectedProduct, setSelectedProduct] = useState<Product | null>(null)
