@@ -126,7 +126,9 @@ function ShopContent() {
             </h2>
             <p className="text-muted-foreground leading-relaxed mb-6">
               • Latar Belakang Pendirian: Pak Ansori sebelumnya bekerja di perusahaan selama kurang lebih 15 tahun sebelum akhirnya memutuskan untuk berhenti karena ingin mandiri dan tidak lagi diperintah orang lain.
+              
 • Perkembangan Usaha: Dimulai tahun 2015 dengan berjualan sendiri tanpa karyawan. Setelah satu tahun, ia membuka cabang dan mulai menggunakan satu karyawan. Saat ini, ia memiliki tiga cabang pedagang kaki lima dengan tiga karyawan, sementara ia sendiri fokus pada monitoring, kontrol arahan, dan evaluasi.
+              
 • Kendala Pandemi: Saat pandemi (pemberlakuan jam operasional), ia sempat dilarang berjualan di luar setelah jam 8 malam, sehingga ia sempat menutup usahanya selama sekitar satu bulan dan kemudian berjualan dari rumah untuk sementara waktu agar dapur tetap "ngepul".
             </p>
             <p className="text-muted-foreground leading-relaxed">
