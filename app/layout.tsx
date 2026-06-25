@@ -16,7 +16,7 @@ const rubik = Rubik({
 });
 
 export const metadata: Metadata = {
-  title: 'Kebab Bang Aji - Jagonya Kebab',
+  title: 'finza bau',
   description: 'Arabian Kebab - Lebih Berani Taste-nya! 100% Halal. Pesan Shawarma, Burger Kebab, Hotdog Kebab dan menu lainnya.',
   generator: 'v0.app',
   icons: {
