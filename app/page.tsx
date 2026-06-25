@@ -122,7 +122,7 @@ function ShopContent() {
           <div className="max-w-3xl mx-auto text-center">
             <Badge className="bg-primary/10 text-primary mb-4">Tentang Kami</Badge>
             <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-6">
-              Kebab Bang Aji
+              finza bau
             </h2>
             <p className="text-muted-foreground leading-relaxed mb-6">
               • Latar Belakang Pendirian: 
